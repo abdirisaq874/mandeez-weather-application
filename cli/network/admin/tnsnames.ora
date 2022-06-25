@@ -1,0 +1,8 @@
+db202204151733_high = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.me-jeddah-1.oraclecloud.com))(connect_data=(service_name=g5e041aa5fdb354_db202204151733_high.adb.oraclecloud.com))(security=(ssl_server_cert_dn="CN=adb.me-jeddah-1.oraclecloud.com, OU=Oracle ADB JEDDAH, O=Oracle Corporation, L=Redwood City, ST=California, C=US")))
+
+db202204151733_low = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.me-jeddah-1.oraclecloud.com))(connect_data=(service_name=g5e041aa5fdb354_db202204151733_low.adb.oraclecloud.com))(security=(ssl_server_cert_dn="CN=adb.me-jeddah-1.oraclecloud.com, OU=Oracle ADB JEDDAH, O=Oracle Corporation, L=Redwood City, ST=California, C=US")))
+
+db202204151733_medium = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.me-jeddah-1.oraclecloud.com))(connect_data=(service_name=g5e041aa5fdb354_db202204151733_medium.adb.oraclecloud.com))(security=(ssl_server_cert_dn="CN=adb.me-jeddah-1.oraclecloud.com, OU=Oracle ADB JEDDAH, O=Oracle Corporation, L=Redwood City, ST=California, C=US")))
+
+
+
